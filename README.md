@@ -1,3 +1,7 @@
+TODO: Fix everything so it adheres to the Google style guide
+TODO: Add an Apache license to the files to comply with the submission guidelines
+TODO: Pull request! :D
+
 # Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
 
 
